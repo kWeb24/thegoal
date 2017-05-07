@@ -1,7 +1,8 @@
 # TheGoal
 
 **The winner of [Hangover Game Jam 2016](https://itch.io/jam/hangover-game-jam-2016)**
-**[Play on Itch.io](https://kweb24.itch.io/thegoal)** or **(Download for Windows)[#]**
+
+**[Play on Itch.io](https://kweb24.itch.io/thegoal)** or **(Download for Windows)[https://github.com/kWeb24/thegoal/blob/master/TheGoal/TheGoal/Build/TheGoal_1_win.zip]**
 
 The code is really shitty, game could hang up for a while after intro screen and has a lot of typos. But hey, it was Game Jam and I was terribly tired after new year cellebration!
 
