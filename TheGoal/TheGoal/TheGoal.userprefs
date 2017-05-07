@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\playerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Global\gameController.cs" Line="48" Column="19" />
+      <File FileName="Assets\Scripts\Global\affectGravity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\asteroidController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\cameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\cometCatcher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\drawOrbit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="99" Column="12" />
+      <File FileName="Assets\Scripts\talkController.cs" Line="1" Column="1" />
+      <File FileName="Assets\restart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
